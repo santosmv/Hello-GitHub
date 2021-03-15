@@ -8,4 +8,4 @@ for i in name:
 
 print('First name only:', name[:6])
 
-print('Second name only:', name[7:])
+print('Second name only:', name[6:])
