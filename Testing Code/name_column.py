@@ -1,5 +1,5 @@
 firstName = 'Marcos'
-lastName = 'dos Santos'
+lastName = 'Santos'
 
 name = firstName + lastName
 
